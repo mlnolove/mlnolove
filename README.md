@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, sou o Michel 👋
 
-<!--
-**mlnolove/mlnolove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas (Estácio), no Rio de Janeiro.
+Em busca de estágio em desenvolvimento de software.
 
-Here are some ideas to get you started:
+## Projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [BarberFlow](https://github.com/mlnolove/barberflow): gestão online de barbearias (FastAPI, React, PostgreSQL)
+- [Chama Burger](https://github.com/mlnolove/chama-burger): pedidos online para hamburgueria (React, FastAPI)
+- [DevDesk](https://github.com/mlnolove/devdesk): chamados de suporte técnico (FastAPI, JavaScript)
+
+## Estudando
+
+React, TypeScript, FastAPI e PostgreSQL
+
+## Contato
+
+LinkedIn: https://www.linkedin.com/in/michel-silva-530722212
